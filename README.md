@@ -1,8 +1,5 @@
 # Hi there, I'm Rohini Nagesh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohini0319&color=blue&style=flat-square)
-
-
 Working as Graduate Engineering Trainee at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 (2025-2026). <br>
 ---
 
